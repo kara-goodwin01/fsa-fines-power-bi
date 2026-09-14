@@ -75,7 +75,7 @@ A donut chart compares imposed fine amounts across institution categories.
 The report includes a dedicated definitions page explaining the major categories
 represented in the data.
 
-![Definitions Page](images/fsa-fines-definitions.png)
+![Definitions Page](D5EC3A3D-E27E-4F65-82D1-F601473320DA.jpeg)
 
 Topics include:
 
