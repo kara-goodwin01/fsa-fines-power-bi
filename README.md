@@ -19,6 +19,14 @@ and university classifications.
 
 ![Federal Student Aid Fines Dashboard](images/295A2EFD-C251-4289-8A1F-6C676DB2BCD5.jpeg)
 
+### Interactive Dashboard Demo
+
+The dashboard supports interactive fiscal-year filtering and dynamically
+updates the KPI, geographic distribution, institution-level results,
+violation categories, and fiscal-year analysis.
+
+![Power BI Dashboard Demo](images/fsa-fines-dashboard-demo.gif)
+
 ---
 
 ## Project Objectives
