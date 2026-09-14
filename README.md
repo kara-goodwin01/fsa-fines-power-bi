@@ -17,7 +17,7 @@ and university classifications.
 
 ## Dashboard Preview
 
-![Federal Student Aid Fines Dashboard](images/fsa-fines-dashboard-overview.png)
+![Federal Student Aid Fines Dashboard](295A2EFD-C251-4289-8A1F-6C676DB2BCD5.jpeg)
 
 ---
 
